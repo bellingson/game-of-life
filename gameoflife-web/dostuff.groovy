@@ -2,6 +2,6 @@ println "Hello, this is Hudson calling. This build is running with the following
 System.properties.each {
      println it
 
-	println "Hello World"
+	println "Hello World 2"
 
 }
